@@ -1,0 +1,2 @@
+C:\Users\merta\OneDrive\Masaüstü\Yazılım\Şahin hoca C#\22MISY1041 Mert Ali Dalkır Final\22MISY1041 Mert Ali Dalkır Final\obj\Debug\22MISY1041 Mert Ali Dalkır Final.csproj.AssemblyReference.cache
+C:\Users\merta\OneDrive\Masaüstü\Yazılım\Şahin hoca C#\22MISY1041 Mert Ali Dalkır Final\22MISY1041 Mert Ali Dalkır Final\obj\Debug\22MISY1041 Mert Ali Dalkır Final.csproj.CoreCompileInputs.cache
